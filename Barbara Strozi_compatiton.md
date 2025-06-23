@@ -1,3 +1,10 @@
+--
+Composer: Babara Strozi
+Nationality: Itary
+Born: 1619
+Died: 1677
+--
+
 # Barbara Strozi (1619~ 1677)
 
 Barbara Strozzi was one of the most prominent female composers ofthe Baroque era. In a society where women's musical activities were heavily restricted, she was a rare figure who published eight collections of her own compositions. She is often regarded as the first female composer to build a career primarily through her own original works. Strozzi was active in Venice and grew up in an artistic environment, supported by her adoptive father, the renowned poet Giulio Strozzi, who helped connect her with leading intellectuals and artists of the time.
